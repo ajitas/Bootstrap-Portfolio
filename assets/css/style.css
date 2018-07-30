@@ -95,6 +95,10 @@
     padding-left:15px;
 }
 
+#carouselIndicators {
+    margin-top:20px;
+}
+
 @media screen and (max-width: 768px) {
      #bioimage {
         width:250px;
