@@ -101,6 +101,10 @@
     margin-top:20px;
 }
 
+.navlink a:hover {
+    text-decoration:underline;
+}
+
 @media screen and (max-width: 768px) {
      #bioimage {
         width:250px;
