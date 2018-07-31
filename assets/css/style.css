@@ -21,6 +21,8 @@
     text-align:center;
     color:#dddddd;
     border-top: 8px solid #4aaaa5;
+    position:fixed;
+    bottom:0;
 }
 
 .container1 {
